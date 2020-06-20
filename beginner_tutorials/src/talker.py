@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: UTF-8 -*-
 # license removed for brevity
 import rospy
 from std_msgs.msg import String

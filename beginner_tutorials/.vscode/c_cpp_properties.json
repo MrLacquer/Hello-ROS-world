@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/msi-phj/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/msi-phj/catkin_ws/src/Hello-ROS-world/beginner_tutorials/include/**",
+                "/home/msi-phj/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+                "/home/msi-phj/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/**",
+                "/opt/ros/melodic/share/fetch_gazebo/include/**",
+                "/home/msi-phj/catkin_ws/src/hector_gazebo/hector_gazebo_plugins/include/**",
+                "/home/msi-phj/catkin_ws/src/hector_gazebo/hector_gazebo_thermal_camera/include/**",
+                "/home/msi-phj/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+                "/home/msi-phj/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+                "/home/msi-phj/catkin_ws/src/hector_slam/hector_mapping/include/**",
+                "/home/msi-phj/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+                "/home/msi-phj/catkin_ws/src/husky_ur3_manipluator/husky_ur3_stockroom/include/**",
+                "/home/msi-phj/catkin_ws/src/jsk_common/jsk_topic_tools/include/**",
+                "/home/msi-phj/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/msi-phj/catkin_ws/src/universal_robot/ur_kinematics/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
